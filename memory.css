@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body{
+    background: rgb(131,58,180);
+    background: linear-gradient(56deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 53%, rgba(252,176,69,1) 100%);
+}
+
+.game_1{
+color: black;
+font-size: 50px;
+background-image: url("c:\full stuck\full_stuck\01_basic\project\Card game\img\orenge car.jpg");
+
+}
+.game_2{
+color: black;
+font-size: 50px;
+}
+.game_3{
+color: black;
+font-size: 50px;
+}
