@@ -12,8 +12,9 @@ body{
 .game_1{
 color: black;
 font-size: 50px;
-background-image: url("c:\full stuck\full_stuck\01_basic\project\Card game\img\orenge car.jpg");
-
+image: url("c:\full stuck\full_stuck\01_basic\project\Card game\img\orenge car.jpg");
+height: 100px;
+width: 70px;
 }
 .game_2{
 color: black;
