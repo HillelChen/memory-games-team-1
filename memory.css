@@ -1,8 +1,8 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box; 
-} */
+}
 
 body{
     background: rgb(131,58,180);
@@ -12,6 +12,7 @@ body{
 .game_1{
 color: black;
 font-size: 50px;
+background-image: url("c:\full stuck\full_stuck\01_basic\project\Card game\img\orenge car.jpg");
 
 }
 .game_2{
